@@ -1,0 +1,38 @@
+{
+  "name": "hsfungenerator",
+  "version": "1.0.0",
+  "description": "random inspirations for decks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samisalami/hsfungenerator.git"
+  },
+  "keywords": [
+    "hearthstone",
+    "deck",
+    "fun",
+    "inspiration"
+  ],
+  "author": "Samjessa Lewy",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/samisalami/hsfungenerator/issues"
+  },
+  "homepage": "https://github.com/samisalami/hsfungenerator#readme",
+  "dependencies": {
+    "angular": "^1.6.2",
+    "angular-route": "^1.6.2",
+    "bootstrap": "^4.0.0-alpha.6"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-angular-templates": "^1.1.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^2.2.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
